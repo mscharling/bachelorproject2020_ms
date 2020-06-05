@@ -5,6 +5,7 @@ This README-file contains the coding in R to provide the plots from Martin Schar
 
 ##########LOADING PACKAGES##########
 library(quantmod)
+
 library(ggplot2)
 library(reshape2)
 library(timeDate)
