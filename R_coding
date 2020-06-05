@@ -1,3 +1,7 @@
+##########MARTIN SCHARLING 2020##########
+##########BACHELOR THESIS##########
+##########UNIVERSITY OF COPENHAGEN##########
+
 ##########LOADING PACKAGES##########
 library(quantmod)
 library(ggplot2)
